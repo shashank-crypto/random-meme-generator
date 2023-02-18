@@ -16,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/shashank-crypto/random-meme-generator/issues"
   },
-  "homepage": "https://github.com/shashank-crypto/random-meme-generator#readme"
+  "homepage": "https://github.com/shashank-crypto/random-meme-generator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
